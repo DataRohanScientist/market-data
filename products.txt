@@ -1,0 +1,9 @@
+"PID","MRP","PRNAME","BRAND"
+p1,6000,tv,samsung
+p2,3000,spekar,samsung
+p3,5600,tv,LG
+p4,6000,washing machine,samsung
+p5,6700,washing machine,LG
+p6,5600,tv,sony
+p7,6000,camera,sony
+p8,6000,tv,micromax
